@@ -1,0 +1,10 @@
+-this will be a multi-purpose client side app
+
+-note taking app / to do list (will see if I encapsulate both functionalities)
+-expenses tracker app
+-calorie counting app
+
+
+day 1:
+
+-started working on the basic UI and state manip in the UI
